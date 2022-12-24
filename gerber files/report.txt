@@ -1,0 +1,11 @@
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-F_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-B_Cu.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-F_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-B_Paste.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-F_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-B_Mask.gbr'.
+Plotted to 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\gerber files\AS-MULTI-UNO-11-job.gbrjob'.
+Info: Done.

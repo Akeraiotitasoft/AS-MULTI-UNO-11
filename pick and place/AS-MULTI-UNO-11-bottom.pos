@@ -1,0 +1,7 @@
+### Module positions - created on Fri Dec 23 20:27:40 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val             Package                                PosX       PosY       Rot  Side
+A1        Arduino_UNO_R3  Arduino_UNO_R3_WithMountingHoles  -117.8052   -66.8528  180.0000  bottom
+## End

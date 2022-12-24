@@ -1,0 +1,45 @@
+PCB statistics report
+=====================
+- Date: 12/23/2022 8:29:17 PM
+- Project: AS-MULTI-UNO-11
+- Board name: AS-MULTI-UNO-11
+
+Board
+-----
+- Width: 75.6158 mm
+- Height: 54.0004 mm
+- Area: 3786.1715 sq. mm
+
+Pads
+----
+- Through hole: 92
+- SMD: 0
+- Connector: 0
+- NPTH: 4
+
+Vias
+----
+- Through vias: 24
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|        | Front Side | Back Side | Total |
+|--------|------------|-----------|-------|
+|THT:    |        12  |        1  |   13  |
+|SMD:    |         0  |        0  |    0  |
+|Total:  |        12  |        1  |   13  |
+|        |            |           |       |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|    46 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    42 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    24 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|     4 | Round | 1.1000 mm | 1.1000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     4 | Round | 3.2000 mm | 3.2000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |

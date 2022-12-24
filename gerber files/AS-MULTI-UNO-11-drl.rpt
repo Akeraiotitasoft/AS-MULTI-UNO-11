@@ -1,0 +1,26 @@
+Drill report for AS-MULTI-UNO-11.kicad_pcb
+Created on 12/23/2022 8:27:03 PM
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'AS-MULTI-UNO-11-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.400mm  0.0157"  (24 holes)
+    T2  0.800mm  0.0315"  (42 holes)
+    T3  1.000mm  0.0394"  (46 holes)
+    T4  1.100mm  0.0433"  (4 holes)
+
+    Total plated holes count 116
+
+
+Drill file 'AS-MULTI-UNO-11-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  3.200mm  0.1260"  (4 holes)
+
+    Total unplated holes count 4

@@ -1,0 +1,6 @@
+Info: Front (top side) placement file: 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\pick and place\AS-MULTI-UNO-11-top.pos'.
+Info: Component count: 12.
+Info: Back (bottom side) placement file: 'C:\Users\uapserk\source\repos\akerasoft\pcb\AS-MULTI-UNO-11\pick and place\AS-MULTI-UNO-11-bottom.pos'.
+Info: Component count: 1.
+Info: Full component count: 13.
+Info: File generation successful.

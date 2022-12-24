@@ -1,0 +1,11 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal";1;"Conn_01x02";;;
+2;"C4,C3,C5";"C_Disc_D3.0mm_W2.0mm_P2.50mm";3;"100nF";;;
+3;"C2,C1";"C_Disc_D3.0mm_W2.0mm_P2.50mm";2;"18pF";;;
+4;"U1";"DIP-28_W7.62mm_Socket";1;"ATmega328-P";;;
+5;"J1";"PinHeader_2x03_P2.54mm_Vertical";1;"ICSP";;;
+6;"SW1";"SW_PUSH_6mm_H4.3mm";1;"SW_Push";;;
+7;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"10k";;;
+8;"Y1";"Crystal_HC49-4H_Vertical";1;"16Mhz";;;
+9;"J3";"PinHeader_1x06_P2.54mm_Horizontal";1;"Conn_01x06";;;
+10;"A1";"Arduino_UNO_R3_WithMountingHoles";1;"Arduino_UNO_R3";;;
