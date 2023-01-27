@@ -1,6 +1,6 @@
 PCB statistics report
 =====================
-- Date: 12/23/2022 8:29:17 PM
+- Date: 1/27/2023 11:00:45 AM
 - Project: AS-MULTI-UNO-11
 - Board name: AS-MULTI-UNO-11
 
@@ -12,7 +12,7 @@ Board
 
 Pads
 ----
-- Through hole: 92
+- Through hole: 94
 - SMD: 0
 - Connector: 0
 - NPTH: 4
@@ -28,9 +28,9 @@ Components
 
 |        | Front Side | Back Side | Total |
 |--------|------------|-----------|-------|
-|THT:    |        12  |        1  |   13  |
+|THT:    |        13  |        1  |   14  |
 |SMD:    |         0  |        0  |    0  |
-|Total:  |        12  |        1  |   13  |
+|Total:  |        13  |        1  |   14  |
 |        |            |           |       |
 
 Drill holes
@@ -39,7 +39,7 @@ Drill holes
 | Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
 |-------|-------|-----------|-----------|--------|---------|-------------|------------|
 |    46 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
-|    42 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    44 | Round | 0.8000 mm | 0.8000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
 |    24 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |        F.Cu |       B.Cu |
 |     4 | Round | 1.1000 mm | 1.1000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
 |     4 | Round | 3.2000 mm | 3.2000 mm |   NPTH |     Pad |        F.Cu |       B.Cu |

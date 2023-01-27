@@ -1,4 +1,4 @@
-### Module positions - created on Fri Dec 23 20:27:40 2022 ###
+### Module positions - created on Fri Jan 27 10:50:51 2023 ###
 ### Printed by Pcbnew version (6.0.6)
 ## Unit = mm, Angle = deg.
 ## Side : top
@@ -8,6 +8,7 @@ C2        18pF         C_Disc_D3.0mm_W2.0mm_P2.50mm                       105.05
 C3        100nF        C_Disc_D3.0mm_W2.0mm_P2.50mm                       102.2658   -80.6196  180.0000  top
 C4        100nF        C_Disc_D3.0mm_W2.0mm_P2.50mm                        97.1496   -94.2594    0.0000  top
 C5        100nF        C_Disc_D3.0mm_W2.0mm_P2.50mm                       121.8892  -109.3216    0.0000  top
+C6        100nF        C_Disc_D3.0mm_W2.0mm_P2.50mm                       130.1242   -94.6404  180.0000  top
 J1        ICSP         PinHeader_2x03_P2.54mm_Vertical                    131.5316   -84.8564  -90.0000  top
 J2        Conn_01x02   JST_XH_S2B-XH-A_1x02_P2.50mm_Horizontal            137.3378   -73.1774   90.0000  top
 J3        Conn_01x06   PinHeader_1x06_P2.54mm_Horizontal                  134.7662   -94.5134    0.0000  top
